@@ -47,4 +47,4 @@ To use this project:
 Run the Colab notebook, provide the conversation as input, and let the model perform the analysis. Review the structured results to get insights into the conversation.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.txt).
